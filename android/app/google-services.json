@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "64787305071",
+    "project_id": "capi-410f9",
+    "storage_bucket": "capi-410f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64787305071:android:dbf17dbbba8a89a528f39a",
+        "android_client_info": {
+          "package_name": "com.example.capi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64787305071-9l1lff57kmdtcggkk53cg64qekkipbf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.capi",
+            "certificate_hash": "6f58493cab7129298902a0d677711c8171f629be"
+          }
+        },
+        {
+          "client_id": "64787305071-b01h4mj3n1s9ko44e3spcnugntkfn7rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuwSiOyQnYQpt2ghP5FN6F_sIaguI6RK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64787305071-b01h4mj3n1s9ko44e3spcnugntkfn7rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
